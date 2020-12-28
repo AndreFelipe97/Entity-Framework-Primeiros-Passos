@@ -22,9 +22,7 @@ namespace Main
             try
             {
                 db.Lojas.Add(loja);
-
                 db.SaveChanges();
-
                 Console.WriteLine("Cliente salvo com sucesso.");
             } catch (Exception e)
             {
