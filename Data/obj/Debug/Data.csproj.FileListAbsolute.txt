@@ -1,0 +1,14 @@
+C:\Users\f045632\source\repos\EntityPrimeiroPasso\Data\bin\Debug\Data.dll.config
+C:\Users\f045632\source\repos\EntityPrimeiroPasso\Data\bin\Debug\Data.dll
+C:\Users\f045632\source\repos\EntityPrimeiroPasso\Data\bin\Debug\Data.pdb
+C:\Users\f045632\source\repos\EntityPrimeiroPasso\Data\bin\Debug\Dominio.dll
+C:\Users\f045632\source\repos\EntityPrimeiroPasso\Data\bin\Debug\EntityFramework.dll
+C:\Users\f045632\source\repos\EntityPrimeiroPasso\Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\f045632\source\repos\EntityPrimeiroPasso\Data\bin\Debug\Dominio.pdb
+C:\Users\f045632\source\repos\EntityPrimeiroPasso\Data\bin\Debug\EntityFramework.xml
+C:\Users\f045632\source\repos\EntityPrimeiroPasso\Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\f045632\source\repos\EntityPrimeiroPasso\Data\obj\Debug\Data.csprojAssemblyReference.cache
+C:\Users\f045632\source\repos\EntityPrimeiroPasso\Data\obj\Debug\Data.csproj.CoreCompileInputs.cache
+C:\Users\f045632\source\repos\EntityPrimeiroPasso\Data\obj\Debug\Data.csproj.CopyComplete
+C:\Users\f045632\source\repos\EntityPrimeiroPasso\Data\obj\Debug\Data.dll
+C:\Users\f045632\source\repos\EntityPrimeiroPasso\Data\obj\Debug\Data.pdb

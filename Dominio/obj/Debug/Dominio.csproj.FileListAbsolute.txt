@@ -1,0 +1,6 @@
+C:\Users\f045632\source\repos\EntityPrimeiroPasso\Dominio\bin\Debug\Dominio.dll
+C:\Users\f045632\source\repos\EntityPrimeiroPasso\Dominio\bin\Debug\Dominio.pdb
+C:\Users\f045632\source\repos\EntityPrimeiroPasso\Dominio\obj\Debug\Dominio.csprojAssemblyReference.cache
+C:\Users\f045632\source\repos\EntityPrimeiroPasso\Dominio\obj\Debug\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\f045632\source\repos\EntityPrimeiroPasso\Dominio\obj\Debug\Dominio.dll
+C:\Users\f045632\source\repos\EntityPrimeiroPasso\Dominio\obj\Debug\Dominio.pdb
